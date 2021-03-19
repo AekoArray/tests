@@ -1,0 +1,4 @@
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\obj\Release\netcoreapp3.1\NUnitTestProject2.csprojAssemblyReference.cache
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\obj\Release\netcoreapp3.1\NUnitTestProject2.AssemblyInfoInputs.cache
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\obj\Release\netcoreapp3.1\NUnitTestProject2.AssemblyInfo.cs
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\obj\Release\netcoreapp3.1\NUnitTestProject2.csproj.CoreCompileInputs.cache

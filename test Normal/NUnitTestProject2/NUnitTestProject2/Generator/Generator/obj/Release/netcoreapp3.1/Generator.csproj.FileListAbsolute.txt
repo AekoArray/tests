@@ -1,0 +1,13 @@
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\obj\Release\netcoreapp3.1\Generator.AssemblyInfoInputs.cache
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\obj\Release\netcoreapp3.1\Generator.AssemblyInfo.cs
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\obj\Release\netcoreapp3.1\Generator.csproj.CoreCompileInputs.cache
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\obj\Release\netcoreapp3.1\Generator.csprojAssemblyReference.cache
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\bin\Release\netcoreapp3.1\Generator.exe
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\bin\Release\netcoreapp3.1\Generator.deps.json
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\bin\Release\netcoreapp3.1\Generator.runtimeconfig.json
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\bin\Release\netcoreapp3.1\Generator.runtimeconfig.dev.json
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\bin\Release\netcoreapp3.1\Generator.dll
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\bin\Release\netcoreapp3.1\Generator.pdb
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\obj\Release\netcoreapp3.1\Generator.dll
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\obj\Release\netcoreapp3.1\Generator.pdb
+C:\Домашки\Тесты\test Normal\NUnitTestProject2\NUnitTestProject2\Generator\Generator\obj\Release\netcoreapp3.1\Generator.genruntimeconfig.cache
